@@ -1,0 +1,6 @@
+{
+  "name": "Australian University WAM and GPA Calculator",
+  "description": "Calculate your cumulative WAM and GPA with grade distributions, real-time tracking, and future target predicting analytics for Australian universities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
